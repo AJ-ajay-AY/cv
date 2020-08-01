@@ -1,3 +1,5 @@
+/******************TAG SELECTORS******************/
+
 body {
     background-color: #e97171;
 }
@@ -17,5 +19,45 @@ h1 {
 }
 
 h3 {
+    color: #ffcb8e;
+}
+
+/* img{
+    background-color:#ffcb8e;
+} */
+
+/*******************CLASS AELECTORS***************/
+
+.profile_pic{
+    background-color: #ffcb8e;
+}
+
+.profile_pic:hover{
+    background-color: gold;
+}
+
+.contact_link{
+    background-color: #ffcb8e;
+}
+
+.contact_link:hover{
+    background-color: gold;
+}
+
+.circular{
+    border-radius: 25%;
+}
+
+/*****************ID Selectors*******************/
+
+#th_1 {
+    color: #ffcb8e;
+}
+
+#th_2 {
+    color: #ffcb8e;
+}
+
+#th_3{
     color: #ffcb8e;
 }
